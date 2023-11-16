@@ -1,3 +1,4 @@
+/*header*/ 
 header{
     display: flex;
     width: 100vw;
@@ -26,6 +27,7 @@ header{
     color: #b2aeae;
     text-decoration: none;
 }
+/*first section*/
 .section1{
     display: flex;
     align-items: center;
@@ -94,7 +96,7 @@ header{
     height: 450px;
     background-color: #1b2734;
     width: 500px;
-}
+}/*section2*/
 .section2{
     display: flex;
     width: 100%;
@@ -162,6 +164,7 @@ header{
     font-family: Arial, Helvetica, sans-serif;
     
 }
+/*section3*/
 .section3{
     justify-content: center;
     align-items: center;
@@ -191,6 +194,7 @@ header{
     width: 7.5rem;
     width: 80px;
 }
+/*section4*/
 .section4{
     display: flex;
     justify-content: center;
@@ -213,7 +217,7 @@ header{
     font-size: 0.9rem;
     color: #747474;
     padding-left: 50px;
-    padding-bottom: 5opx;
+    padding-bottom: 50px;
     padding-top: 20px;
 }
 .grids1{
@@ -270,6 +274,7 @@ header{
     height: 500px;
     width: auto 250px;
 }
+/*this is section5*/
 .section5{
     display: flex;
     align-items: center;
@@ -293,6 +298,7 @@ header{
     text-align: center;
     letter-spacing: -1px;
 }
+/*section6*/
 .section6{
     flex-wrap: wrap;
     width: 100%;
@@ -351,6 +357,7 @@ header{
     display: flex;
     justify-content: space-around;
 }
+/*section7*/
 .section7{
     align-items: center;
     flex-direction: column;
@@ -381,6 +388,7 @@ header{
     text-align: center;
     margin-bottom: o.8em;
 }
+/*welcome to footer*/
 .footer{
     padding-left: 100px;
     padding-right: 100px;
